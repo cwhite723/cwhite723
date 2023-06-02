@@ -1,10 +1,7 @@
-<p align="center">
-
-<h3 align="center"> 💕반갑습니다💕 </h3>
-<h5 align="center"> 백엔드 개발자가 되기 위해 공부 중입니다🥰 </h5>
-
-<a href="https://white-dev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-414141?style=뱃지모양&logo=tistory&logoColor=000000"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/cwhite7230@gmail.com-ff9393?style=뱃지모양&logo=Gmail&logoColor=EA4335"/></a>
+<div align="center">
+<h3> 💕반갑습니다💕 </h3>
+<h5> 백엔드 개발자가 되기 위해 공부 중입니다🥰 </h5>
+<h5> dev-blog: https://white-dev.tistory.com </h5>
 
 ---
 
@@ -20,9 +17,10 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwhite723&show_icons=true&theme=solarized-light)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cwhite723)](https://solved.ac/cwhite723/)
 
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cwhite723)](https://solved.ac/cwhite723/)
+</div>
+
 <!--
 **cwhite723/cwhite723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
